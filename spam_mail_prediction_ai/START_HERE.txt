@@ -1,0 +1,21 @@
+MAILGUARD AI — START HERE
+==========================
+
+1. Open the README.md file for the full project guide.
+2. Install dependencies:
+     python -m pip install -r requirements.txt
+3. Launch the website:
+     python -m streamlit run app.py
+4. To retrain from the supplied CSV:
+     python train_model.py
+5. To test packaged artifacts:
+     python tests/smoke_test.py
+
+Main resources:
+- docs/PROJECT_DOCUMENTATION.md
+- docs/DATASET_REFERENCE.md
+- docs/MODEL_CARD.md
+- docs/TROUBLESHOOTING.md
+- resources/architecture.svg
+- resources/class_distribution.png
+- resources/confusion_matrix.png

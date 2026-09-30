@@ -1,0 +1,5 @@
+message,prediction,spam_probability,ham_probability
+Congratulations! You have won a free prize. Click now to claim your cash reward.,spam,0.9095848411350539,0.09041515886494614
+"Hey, are we still meeting at 6 pm today?",ham,0.04079907637277291,0.9592009236272271
+URGENT! You have been selected for a cash bonus. Reply WIN now.,spam,0.8904105926551448,0.10958940734485521
+Can you send me the project notes when you get a chance?,ham,0.13440271759551425,0.8655972824044857
